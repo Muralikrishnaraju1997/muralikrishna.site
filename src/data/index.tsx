@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { Code, HomeIcon, icons, Instagram, MousePointerClick, NotebookPen, SquareTerminal, UserRound } from "lucide-react";
 export const DATA = {
   name: "Murali Krishna Raju",
-  url: "https://eldoraui.site/",
+  url: "https://muralikrishnaraju.site/",
   description:"I’m currently working as an SEO Executive-Digital at Teamworks Digital, where I help businesses improve their online visibility and reach the right audience on Google.",
   description2:" And Focusing on",
   description3:"Which is a open-source web framework built with",
