@@ -84,7 +84,7 @@ git clonehttps://github.com/karthikmudunuri/karthikmudunuri.site.git
   npm run dev
   ```
 
-  <Step>Open the [data](https://github.com/karthikmudunuri/karthikmudunuri.site/blob/main/src/data/index.tsx) file and change the content thats it! its yours..</Step>
+  <Step>Open the [data](https://github.com/Muralikrishnaraju1997/muralikrishna.site/blob/main/src/data/index.tsx) file and change the content thats it! its yours..</Step>
 
 
 
