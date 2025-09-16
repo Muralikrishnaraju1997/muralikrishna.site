@@ -14,29 +14,35 @@ export default function FreeCodeCamp({ showDesc = true }: FreeCodeCampProps) {
       {showDesc && (
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-16">
           I’ve been writing articles in{" "}
-          <a href="https://dev.to/karthikmudunuri">Blog Page</a> where I
+          <a href="https://blog-murali.vercel.app/">Blog Page</a> where I
           generally write about my projects updates and technical learnings.
           Some of the articles that I wrote are down below.
         </h2>
       )}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 lg:gap-10 w-full">
         <ProjectFCC
-          link="https://dev.to/karthikmudunuri/enhance-your-web-projects-with-sphere-animations-using-eldoraui-3f1j"
-          title="Enhance Your Web Projects with Sphere Animations Using EldoraUI 🚀"
-          image="devcommunity/sphere.webp"
-          date="Jan 7, 2025"
+          link="https://blog-murali.vercel.app/blog/ganesh-chaturthi"
+          title="Ganesh Chaturthi – Murali Krishna Raju Blog on Lord Ganesha"
+          image="B1.png"
+          date="Aug 24, 2025"
         />
         <ProjectFCC
-          link="https://dev.to/karthikmudunuri/coming-soon-eldora-20-the-future-of-page-design-18ce"
-          title="🚀 Coming Soon: Eldora 2.0 – The Future of Page Design"
-          image="devcommunity/comingsoon.webp"
-          date="Nov 21, 2024"
+          link="https://blog-murali.vercel.app/blog/specialchapter"
+          title="A Special Chapter in My Life: My Journey with MBSIT Software"
+          image="B2.png"
+          date="Aug 24, 2025"
         />
         <ProjectFCC
-          link="https://dev.to/karthikmudunuri/introducing-eldora-ui-22m5"
-          title="Introducing Eldora UI"
-          image="devcommunity/eldora.webp"
-          date="July 17, 2024"
+          link="https://blog-murali.vercel.app/blog/varanasi"
+          title="Varanasi Blog City of Faith, Dreams, Life, and Timeless Hope"
+          image="B3.png"
+          date="Aug 24, 2025"
+        />
+         <ProjectFCC
+          link="https://blog-murali.vercel.app/blog/vcube-digital-marketing"
+          title="Vcube Digital Marketing - A Story Of Murali Krishna Raju"
+          image="B4.png"
+          date="Aug 24, 2025"
         />
         {/* 
         <ProjectFCC
