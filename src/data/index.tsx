@@ -8,7 +8,7 @@ export const DATA = {
   description3:"Which is a open-source web framework built with",
   summary: "From keyword strategy and content optimization to technical SEO and link building, I specialize in making search engine optimization simple and effective. My goal is to turn websites into strong growth engines by driving quality traffic, improving visibility, and achieving better search rankings. I focus on building long-term strategies that help businesses grow online, reach the right audience, and create a strong digital presence. By combining smart keyword planning, engaging content, and powerful SEO techniques, I ensure websites stay competitive, attract more visitors, and convert traffic into loyal customers.",
   apperciation: "Together, let’s build your digital presence, one powerful keyword at a time!",
-  footer:"Interested in learning more about my professional journey and skill set? [Click here to view my resume](/Mudunuribhaskarakarthikeyavarma-Resume.pdf) and discover the experiences, achievements, and expertise that I bring to the table.",
+  footer:"Interested in learning more about my professional journey and skill set? [Click here to view my resume](/Penumacha-Murali-Krishna-Raju-Resume.pdf) and discover the experiences, achievements, and expertise that I bring to the table.",
   linkedin:[
     {
       title: "Penumacha Murali Krishna Raju",
